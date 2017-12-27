@@ -1,0 +1,13 @@
+{
+  "name": "react-env-babel-webpack-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ewotring/react-env-babel-webpack-practice.git",
+  "author": "Erik Wotring <ewotring@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
